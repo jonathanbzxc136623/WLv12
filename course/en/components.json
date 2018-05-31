@@ -1,0 +1,557 @@
+[
+  {
+    "_id": "5af42cf0de471cce014680c3",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5af42cd9de471cce014680c2",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Video example",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "compbgtransp",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/2cbcf23058eaf65a2e30625a97981dcb636e79cb.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/f0459bdebd71aa96bd383910a5ef8234278b9879.jpg",
+      "cc": []
+    },
+    "_setCompletionOn": "ended",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "100%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": true,
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_id": "5af6ebc7de471cce014680d2",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5af6e764de471cce014680d0",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Block",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "blank",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "5af6edc5de471cce014680d4",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5af6edb5de471cce014680d3",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Graphic",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "compbgtransp",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f025eacf3263def8973ff03d0ecc807ef2b78b46.jpg",
+      "small": "course/en/assets/f025eacf3263def8973ff03d0ecc807ef2b78b46.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5af7021dde471cce014680de",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5af70215de471cce014680dd",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Accordion",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "compbgtransp",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Item 1",
+        "body": "<p>Kinfolk gentrify tacos woke subway tile, sustainable fanny pack twee helvetica af. Lyft meh crucifix hexagon, etsy kogi shaman single-origin coffee tote bag fashion axe shabby chic hell of biodiesel. Crucifix prism occupy franzen, kickstarter humblebrag vexillologist jean shorts VHS shabby chic etsy portland. Freegan vaporware raw denim 8-bit ugh health goth asymmetrical taxidermy humblebrag butcher.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Item 2",
+        "body": "<p>YOLO bitters pour-over blog, raclette succulents kale chips actually offal authentic fanny pack +1. Normcore irony flexitarian actually air plant semiotics activated charcoal vexillologist copper mug street art. Farm-to-table snackwave keffiyeh, humblebrag sustainable cardigan knausgaard listicle synth fashion axe intelligentsia vice. Adaptogen waistcoat chicharrones irony knausgaard, migas humblebrag.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5af70735de471cce014680e1",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5af70715de471cce014680e0",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>Oh. You need a little dummy text for your mockup? How quaint.</p>",
+    "displayTitle": "",
+    "title": "MCQ example",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "compbgtransp",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select the correct answer from the list below",
+    "_items": [
+      {
+        "text": "Correct",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Incorrect",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Biodiesel typewriter swag pop-up, cloud bread vegan photo booth blog you probably haven&#39;t heard of them. Tbh shabby chic bushwick glossier cold-pressed you probably haven&#39;t heard of them, try-hard coloring book man braid kinfolk affogato. Wolf austin art party polaroid cronut. IPhone lo-fi jianbing, hoodie portland +1 microdosing blog hella pinterest. Green juice typewriter cronut shaman. Letterpress meh vape food truck skateboard iceland tumblr neutra glossier poutine.</p>",
+      "_incorrect": {
+        "final": "<p>Biodiesel typewriter swag pop-up, cloud bread vegan photo booth blog you probably haven&#39;t heard of them. Tbh shabby chic bushwick glossier cold-pressed you probably haven&#39;t heard of them, try-hard coloring book man braid kinfolk affogato. Wolf austin art party polaroid cronut. IPhone lo-fi jianbing, hoodie portland +1 microdosing blog hella pinterest. Green juice typewriter cronut shaman. Letterpress meh vape food truck skateboard iceland tumblr neutra glossier poutine.</p>",
+        "notFinal": "<p>Biodiesel typewriter swag pop-up, cloud bread vegan photo booth blog you probably haven&#39;t heard of them. Tbh shabby chic bushwick glossier cold-pressed you probably haven&#39;t heard of them, try-hard coloring book man braid kinfolk affogato. Wolf austin art party polaroid cronut. IPhone lo-fi jianbing, hoodie portland +1 microdosing blog hella pinterest. Green juice typewriter cronut shaman. Letterpress meh vape food truck skateboard iceland tumblr neutra glossier poutine.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Biodiesel typewriter swag pop-up, cloud bread vegan photo booth blog you probably haven&#39;t heard of them. Tbh shabby chic bushwick glossier cold-pressed you probably haven&#39;t heard of them, try-hard coloring book man braid kinfolk affogato. Wolf austin art party polaroid cronut. IPhone lo-fi jianbing, hoodie portland +1 microdosing blog hella pinterest. Green juice typewriter cronut shaman. Letterpress meh vape food truck skateboard iceland tumblr neutra glossier poutine.</p>",
+        "notFinal": "<p>Biodiesel typewriter swag pop-up, cloud bread vegan photo booth blog you probably haven&#39;t heard of them. Tbh shabby chic bushwick glossier cold-pressed you probably haven&#39;t heard of them, try-hard coloring book man braid kinfolk affogato. Wolf austin art party polaroid cronut. IPhone lo-fi jianbing, hoodie portland +1 microdosing blog hella pinterest. Green juice typewriter cronut shaman. Letterpress meh vape food truck skateboard iceland tumblr neutra glossier poutine.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5af70cbede471cce014680e4",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5af70cb5de471cce014680e3",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>Roof party master cleanse direct trade mumblecore, put a bird on it woke ethical fashion axe irony letterpress quinoa. Cloud bread letterpress activated charcoal, prism disrupt vaporware cardigan viral austin cred four dollar toast marfa. Gastropub thundercats taiyaki jianbing, organic sartorial celiac prism biodiesel beard. Raw denim kitsch mixtape salvia iPhone poutine forage artisan vice mlkshk hell of.</p>",
+    "displayTitle": "",
+    "title": "Matching question example",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "compbgtransp",
+    "_component": "matching",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Answer TRUE or False to the following statements",
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Example 1",
+        "_options": [
+          {
+            "text": "True",
+            "_isCorrect": true
+          },
+          {
+            "text": "False",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Example 2",
+        "_options": [
+          {
+            "text": "True ",
+            "_isCorrect": true
+          },
+          {
+            "text": "False",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Example 3",
+        "_options": [
+          {
+            "text": "True",
+            "_isCorrect": true
+          },
+          {
+            "text": "False",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "correct": "<p>Paleo portland 90&#39;s ramps vice man bun DIY put a bird on it taiyaki YOLO glossier sustainable jean shorts raclette seitan. Chambray prism direct trade, venmo aesthetic cornhole pop-up ethical cardigan hoodie knausgaard squid. Copper mug etsy crucifix vegan street art pinterest. Jianbing aesthetic selfies keffiyeh vinyl ethical narwhal vegan beard everyday carry. Pok pok readymade taiyaki pickled irony plaid, tumblr ramps cliche gentrify viral pug. Drinking vinegar polaroid before they sold out irony forage tousled. Blog roof party cornhole semiotics, occupy af irony tousled pickled vaporware bicycle rights.</p>",
+      "_incorrect": {
+        "final": "<p>Paleo portland 90&#39;s ramps vice man bun DIY put a bird on it taiyaki YOLO glossier sustainable jean shorts raclette seitan. Chambray prism direct trade, venmo aesthetic cornhole pop-up ethical cardigan hoodie knausgaard squid. Copper mug etsy crucifix vegan street art pinterest. Jianbing aesthetic selfies keffiyeh vinyl ethical narwhal vegan beard everyday carry. Pok pok readymade taiyaki pickled irony plaid, tumblr ramps cliche gentrify viral pug. Drinking vinegar polaroid before they sold out irony forage tousled. Blog roof party cornhole semiotics, occupy af irony tousled pickled vaporware bicycle rights.</p>",
+        "notFinal": "<p>Paleo portland 90&#39;s ramps vice man bun DIY put a bird on it taiyaki YOLO glossier sustainable jean shorts raclette seitan. Chambray prism direct trade, venmo aesthetic cornhole pop-up ethical cardigan hoodie knausgaard squid. Copper mug etsy crucifix vegan street art pinterest. Jianbing aesthetic selfies keffiyeh vinyl ethical narwhal vegan beard everyday carry. Pok pok readymade taiyaki pickled irony plaid, tumblr ramps cliche gentrify viral pug. Drinking vinegar polaroid before they sold out irony forage tousled. Blog roof party cornhole semiotics, occupy af irony tousled pickled vaporware bicycle rights.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Paleo portland 90&#39;s ramps vice man bun DIY put a bird on it taiyaki YOLO glossier sustainable jean shorts raclette seitan. Chambray prism direct trade, venmo aesthetic cornhole pop-up ethical cardigan hoodie knausgaard squid. Copper mug etsy crucifix vegan street art pinterest. Jianbing aesthetic selfies keffiyeh vinyl ethical narwhal vegan beard everyday carry. Pok pok readymade taiyaki pickled irony plaid, tumblr ramps cliche gentrify viral pug. Drinking vinegar polaroid before they sold out irony forage tousled. Blog roof party cornhole semiotics, occupy af irony tousled pickled vaporware bicycle rights.</p>",
+        "notFinal": "<p>Paleo portland 90&#39;s ramps vice man bun DIY put a bird on it taiyaki YOLO glossier sustainable jean shorts raclette seitan. Chambray prism direct trade, venmo aesthetic cornhole pop-up ethical cardigan hoodie knausgaard squid. Copper mug etsy crucifix vegan street art pinterest. Jianbing aesthetic selfies keffiyeh vinyl ethical narwhal vegan beard everyday carry. Pok pok readymade taiyaki pickled irony plaid, tumblr ramps cliche gentrify viral pug. Drinking vinegar polaroid before they sold out irony forage tousled. Blog roof party cornhole semiotics, occupy af irony tousled pickled vaporware bicycle rights.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5af70cccde471cce014680e7",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5af70cc3de471cce014680e6",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Tab example",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "compbgtransp",
+    "_component": "tabs",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_tabLayout": "top",
+    "_items": [
+      {
+        "tabTitle": "Tab 1",
+        "title": "Tab 1",
+        "body": "<p>Edison bulb 8-bit vexillologist green juice. Vice listicle iceland viral schlitz truffaut XOXO air plant chia fam tousled butcher woke. Four loko semiotics thundercats ramps pabst hella distillery beard microdosing ennui butcher. Banjo knausgaard 3 wolf moon poutine ramps.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Tab 2",
+        "title": "Tab 2",
+        "body": "<p>8-bit celiac fanny pack bushwick palo santo glossier vaporware selfies enamel pin cornhole taiyaki hoodie. Truffaut kitsch shabby chic, pok pok taxidermy gochujang fashion axe air plant vinyl. Farm-to-table poutine raclette, hella cold-pressed neutra pork belly stumptown meditation franzen vaporware schlitz kitsch chicharrones. Jean shorts beard ennui, celiac pitchfork venmo gochujang authentic 3 wolf moon aesthetic humblebrag artisan flannel.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Tab 3",
+        "title": "Tab 3",
+        "body": "<p>Cliche pabst tofu, lumbersexual paleo tumblr la croix aesthetic gastropub kale chips chambray pop-up knausgaard. Distillery pug cold-pressed deep v four dollar toast portland vape pitchfork live-edge banjo ethical shoreditch lumbersexual hexagon celiac. Hell of air plant gochujang ugh beard meggings hashtag chillwave butcher vaporware brunch plaid. Salvia hoodie vegan lyft man braid yr deep v XOXO.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  {
+    "_id": "5af70cf1de471cce014680ed",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5af70ce7de471cce014680ec",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Stack list example",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "compbgtransp",
+    "_component": "stacklist",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>Skateboard succulents pabst cred single-origin coffee. Austin helvetica cred yuccie photo booth williamsburg kitsch fam fixie flexitarian bushwick PBR&amp;B. Vinyl ramps kinfolk vice cray shabby chic. Trust fund tote bag brooklyn, cronut copper mug distillery la croix taxidermy listicle austin chia pok pok man braid single-origin coffee franzen. Pour-over succulents pop-up hella vegan. Lumbersexual banh mi poutine, kinfolk scenester messenger bag kickstarter helvetica copper mug green juice listicle irony seitan umami. Keytar asymmetrical chambray, hella you probably haven&#39;t heard of them twee butcher meditation ethical kickstarter.</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Raw denim ramps DIY, cronut street art air plant readymade mlkshk adaptogen iPhone health goth 90&#39;s. Lo-fi hammock helvetica freegan actually. Street art coloring book plaid literally, palo santo mustache austin intelligentsia. Pop-up pok pok man bun DIY dreamcatcher waistcoat sustainable forage fixie chillwave hashtag distillery banjo. Leggings glossier photo booth tote bag keffiyeh fixie artisan squid edison bulb. Mustache aesthetic +1 hot chicken VHS paleo everyday carry, drinking vinegar flexitarian cred prism humblebrag whatever. Copper mug kinfolk affogato, post-ironic sustainable knausgaard gochujang kogi you probably haven&#39;t heard of them farm-to-table.</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Williamsburg vaporware mustache, next level butcher succulents hammock 90&#39;s kinfolk austin health goth tumeric glossier yr 8-bit. Chillwave ennui cold-pressed everyday carry, schlitz forage tattooed af meggings. Blue bottle viral tacos shaman chia iceland. Asymmetrical brooklyn hashtag, hell of poke sustainable green juice seitan.</p>",
+        "next": ""
+      }
+    ],
+    "_button": {
+      "startText": "Click here to begin",
+      "continueText": "Next"
+    }
+  },
+  {
+    "_id": "5b03272430a0939d016419fc",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5af41aaede471cce014680bf",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Welcome animation",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "compbgtransp",
+    "_component": "animateCCmate",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_source": "assets/skeleton/worklife.html"
+  },
+  {
+    "_id": "5b0c3e1830a0939d01641a08",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b0c3de530a0939d01641a07",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Narrative component",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "compbgtransp",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Narrative 1",
+        "body": "<p>Pinterest lyft prism viral. Pinterest helvetica vinyl, palo santo etsy lo-fi tousled irony lyft. Next level iPhone health goth sustainable sartorial, everyday carry tumeric pabst man braid. Quinoa paleo tbh kickstarter distillery typewriter intelligentsia.</p>",
+        "_graphic": {
+          "src": "course/en/assets/f025eacf3263def8973ff03d0ecc807ef2b78b46.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Narrative 1"
+      },
+      {
+        "title": "Narrative 2",
+        "body": "<p>Jean shorts heirloom literally chillwave pabst, offal sartorial vinyl green juice poke hell of edison bulb. Tbh tumeric mumblecore craft beer artisan coloring book mixtape cray normcore. Air plant disrupt man bun marfa ugh kickstarter. Cold-pressed everyday carry before they sold out farm-to-table stumptown. Salvia 90&#39;s plaid offal kickstarter letterpress, mixtape distillery. Literally vegan lomo schlitz austin salvia you probably haven&#39;t heard of them.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ca1e8a6f8927c9e8a034654c88601184c30df4db.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Narrative 2"
+      }
+    ]
+  },
+  {
+    "_id": "5b0c4a4730a0939d01641a0d",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b0c49ec30a0939d01641a0c",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Reveal component",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "compbgtransp",
+    "_component": "reveal",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_direction": "left",
+    "control": {
+      "hideText": "Hide",
+      "showText": "Show"
+    },
+    "first": {
+      "title": "",
+      "src": "course/en/assets/f025eacf3263def8973ff03d0ecc807ef2b78b46.jpg",
+      "alt": "",
+      "body": "",
+      "moreText": "More"
+    },
+    "second": {
+      "title": "",
+      "src": "course/en/assets/733e2fca300a82c514fc17f871c0b196c3a1ad7f.jpg",
+      "alt": "",
+      "body": "<p>XOXO polaroid everyday carry, chartreuse gochujang roof party blue bottle typewriter yuccie. Williamsburg meditation green juice pok pok direct trade brunch shaman glossier man bun tofu. Flannel banh mi unicorn farm-to-table enamel pin chambray banjo small batch chartreuse glossier lumbersexual ennui. Woke tumeric synth, fixie polaroid vexillologist microdosing cliche kinfolk readymade fashion axe. Cred irony meggings mlkshk kitsch forage. Cray franzen listicle, iPhone photo booth offal taiyaki leggings sriracha.</p><p>Pinterest lyft prism viral. Pinterest helvetica vinyl, palo santo etsy lo-fi tousled irony lyft. Next level iPhone health goth sustainable sartorial, everyday carry tumeric pabst man braid. Quinoa paleo tbh kickstarter distillery typewriter intelligentsia.</p>",
+      "moreText": "More"
+    }
+  }
+]

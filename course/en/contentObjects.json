@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "5af41aadde471cce014680bd",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "pageBody": "",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Membership Assistant | Module 1",
+    "_articleBackground": {
+      "_isActive": false
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    }
+  }
+]
